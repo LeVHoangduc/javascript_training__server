@@ -1,0 +1,138 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "Alexandre@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "email": "herry@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 3,
+      "email": "chelsea@gmail.com",
+      "password": "Taikhoan@46"
+    }
+  ],
+  "cards": [
+    {
+      "id": "009bc7a0-27ba-4254-86cb-09a3dc149d",
+      "language": "english",
+      "word": "Work",
+      "type": "noun",
+      "meaning": "Từ vựng",
+      "description": "Một từ vựng trong một ngôn ngữ bất kỳ ",
+      "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+    },
+    {
+      "id": "bf3f0125-2682-4a10-83fa-a2d125a0ef3a",
+      "language": "china",
+      "word": "tung cua",
+      "type": "noun",
+      "meaning": "Từ vựng",
+      "description": "Một từ vựng trong một ngôn ngữ bất kỳ ",
+      "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+    },
+    {
+      "id": "a2d34929-3115-4471-9181-40a72846fc79",
+      "language": "france",
+      "word": "Bonjour",
+      "type": "noun",
+      "meaning": "Xin chào",
+      "description": "Lời chào khi gặp nhau",
+      "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+    },
+    {
+      "id": "a4e7f64b-b1de-41bb-b5be-481f243fa4a9",
+      "language": "Korea",
+      "word": "사랑",
+      "type": "noun",
+      "meaning": "Tình yêu",
+      "description": "Một loại cảm xúc của con người giữa những người thân thương",
+      "descriptionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
+    },
+    {
+      "id": "79811c64-9e2c-48c2-9616-5b0b2b9c9d09",
+      "language": "france",
+      "word": "La vie",
+      "type": "noun",
+      "meaning": "Cuộc sống",
+      "description": "Mô tả cuộc sống",
+      "descriptionPhoto": "https://i.etsystatic.com/10986386/r/il/66616a/1600008331/il_570xN.1600008331_ijhu.jpg"
+    },
+    {
+      "id": "3ec4c54b-fee3-47c8-9ba9-5a4d209657da",
+      "language": "china",
+      "word": "再见",
+      "type": "noun",
+      "meaning": "Tạm biệt",
+      "description": "Mô tả cuộc sống",
+      "descriptionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
+    },
+    {
+      "id": "6e84cc85-191c-4e52-adb5-e899685fcc43",
+      "language": "france",
+      "word": "bisou",
+      "type": "noun",
+      "meaning": "nu hon",
+      "description": "dasdasdasdsad",
+      "descriptionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
+    },
+    {
+      "id": "9c039791-f641-424c-892f-b06af91d4eef",
+      "language": "espanol",
+      "word": "hola",
+      "type": "xin chao",
+      "meaning": "dasdas",
+      "description": "dasdasdas",
+      "descriptionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
+    },
+    {
+      "id": "30b74ae1-627b-4598-bf52-5ea37cf0fcdc",
+      "language": "english",
+      "word": "bye",
+      "type": "eweqw",
+      "meaning": "weqweq",
+      "description": "21312321ewasd",
+      "descriptionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
+    },
+    {
+      "id": "EdlUGKm",
+      "language": "china",
+      "word": "tai chien",
+      "type": "ok",
+      "meaning": "saSA",
+      "description": "sAS",
+      "descriptionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
+    },
+    {
+      "id": "EibyQkH",
+      "language": "english",
+      "word": "asdas",
+      "type": "dsadas",
+      "meaning": "dsadas",
+      "description": "dasdas",
+      "descriptionPhoto": "https://www.desicomments.com/wallpapers/wp-content/uploads/2014/12/Beautiful-Waterfall-Image.jpg"
+    }
+  ],
+  "languages": [
+    {
+      "language": "english"
+    },
+    {
+      "language": "china"
+    },
+    {
+      "language": "france"
+    },
+    {
+      "language": "Korea"
+    },
+    {
+      "id": "e5f07a5c-fa98-47d2-acd4-000fd8cd7bda",
+      "language": "espanol"
+    }
+  ]
+}

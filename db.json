@@ -21,18 +21,18 @@
       "id": "009bc7a0-27ba-4254-86cb-09a3dc149d",
       "language": "english",
       "word": "Work",
-      "type": "noun",
-      "meaning": "Từ vựng",
-      "description": "Một từ vựng trong một ngôn ngữ bất kỳ ",
+      "type": "verb",
+      "meaning": "làm công việc/nhiệm vụ",
+      "description": "Để làm một cái gì đó liên quan đến nỗ lực thể chất hoặc tinh thần, đặc biệt là một phần của công việc",
       "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     },
     {
       "id": "bf3f0125-2682-4a10-83fa-a2d125a0ef3a",
       "language": "china",
-      "word": "tung cua",
+      "word": "爱 ",
       "type": "noun",
-      "meaning": "Từ vựng",
-      "description": "Một từ vựng trong một ngôn ngữ bất kỳ ",
+      "meaning": "Tình yêu",
+      "description": "diễn đạt tình cảm yêu thương và quan tâm. Nó thể hiện sự gắn kết và tình cảm sâu sắc giữa những người thân yêu.",
       "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     },
     {
@@ -47,10 +47,10 @@
     {
       "id": "a4e7f64b-b1de-41bb-b5be-481f243fa4a9",
       "language": "Korea",
-      "word": "사랑",
+      "word": "인내",
       "type": "noun",
-      "meaning": "Tình yêu",
-      "description": "Một loại cảm xúc của con người giữa những người thân thương",
+      "meaning": "Kiên nhẫn",
+      "description": "Đây là phẩm chất quan trọng trong việc đối mặt với khó khăn và vượt qua chúng. ",
       "descriptionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
     },
     {
@@ -76,45 +76,45 @@
       "language": "france",
       "word": "bisou",
       "type": "noun",
-      "meaning": "nu hon",
-      "description": "dasdasdasdsad",
-      "descriptionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
-    },
-    {
-      "id": "9c039791-f641-424c-892f-b06af91d4eef",
-      "language": "espanol",
-      "word": "hola",
-      "type": "xin chao",
-      "meaning": "dasdas",
-      "description": "dasdasdas",
+      "meaning": "Nụ hôn tạm biệt",
+      "description": "Lời chào tạm biệt văn hóa Pháp",
       "descriptionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
     },
     {
       "id": "30b74ae1-627b-4598-bf52-5ea37cf0fcdc",
       "language": "english",
       "word": "bye",
-      "type": "eweqw",
-      "meaning": "weqweq",
-      "description": "21312321ewasd",
+      "type": "exclamation, noun",
+      "meaning": "tạm biệt",
+      "description": "Tạm biệt! Gặp lại bạn vào tuần tới.",
       "descriptionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
     },
     {
       "id": "EdlUGKm",
       "language": "china",
-      "word": "tai chien",
-      "type": "ok",
-      "meaning": "saSA",
-      "description": "sAS",
+      "word": "和平 ",
+      "type": "noun",
+      "meaning": "Hòa bình",
+      "description": "biểu thị tình trạng không có xung đột hoặc chiến tranh. ",
       "descriptionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
     },
     {
       "id": "EibyQkH",
       "language": "english",
-      "word": "asdas",
-      "type": "dsadas",
-      "meaning": "dsadas",
-      "description": "dasdas",
+      "word": "provision ",
+      "type": "noun",
+      "meaning": "sự cung cấp",
+      "description": "hành động cung cấp cho ai đó thứ gì đó mà họ cần hoặc muốn; một cái gì đó được cung cấp",
       "descriptionPhoto": "https://www.desicomments.com/wallpapers/wp-content/uploads/2014/12/Beautiful-Waterfall-Image.jpg"
+    },
+    {
+      "id": "CCWsBv3",
+      "language": "france",
+      "word": "Distribution",
+      "type": "noun",
+      "meaning": "Sự phân phối",
+      "description": "Các nhà sản xuất phân phối hàng hóa",
+      "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     }
   ],
   "languages": [

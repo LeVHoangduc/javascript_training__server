@@ -2,18 +2,18 @@
   "users": [
     {
       "id": 1,
-      "email": "Alexandre@gmail.com",
-      "password": "12345678"
+      "email": "Admin1@gmail.com",
+      "password": "Admin@123"
     },
     {
       "id": 2,
-      "email": "herry@gmail.com",
-      "password": "12345678"
+      "email": "Admin2@gmail.com",
+      "password": "Admin@123"
     },
     {
       "id": 3,
-      "email": "chelsea@gmail.com",
-      "password": "Taikhoan@46"
+      "email": "Admin3@gmail.com",
+      "password": "Admin@123"
     }
   ],
   "cards": [
@@ -24,7 +24,7 @@
       "type": "verb",
       "meaning": "làm công việc/nhiệm vụ",
       "description": "Để làm một cái gì đó liên quan đến nỗ lực thể chất hoặc tinh thần, đặc biệt là một phần của công việc",
-      "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     },
     {
       "id": "bf3f0125-2682-4a10-83fa-a2d125a0ef3a",
@@ -33,7 +33,7 @@
       "type": "noun",
       "meaning": "Tình yêu",
       "description": "diễn đạt tình cảm yêu thương và quan tâm. Nó thể hiện sự gắn kết và tình cảm sâu sắc giữa những người thân yêu.",
-      "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     },
     {
       "id": "a2d34929-3115-4471-9181-40a72846fc79",
@@ -42,7 +42,7 @@
       "type": "noun",
       "meaning": "Xin chào",
       "description": "Lời chào khi gặp nhau",
-      "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     },
     {
       "id": "a4e7f64b-b1de-41bb-b5be-481f243fa4a9",
@@ -51,7 +51,7 @@
       "type": "noun",
       "meaning": "Kiên nhẫn",
       "description": "Đây là phẩm chất quan trọng trong việc đối mặt với khó khăn và vượt qua chúng. ",
-      "descriptionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
+      "captionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
     },
     {
       "id": "79811c64-9e2c-48c2-9616-5b0b2b9c9d09",
@@ -60,7 +60,7 @@
       "type": "noun",
       "meaning": "Cuộc sống",
       "description": "Mô tả cuộc sống",
-      "descriptionPhoto": "https://i.etsystatic.com/10986386/r/il/66616a/1600008331/il_570xN.1600008331_ijhu.jpg"
+      "captionPhoto": "https://i.etsystatic.com/10986386/r/il/66616a/1600008331/il_570xN.1600008331_ijhu.jpg"
     },
     {
       "id": "3ec4c54b-fee3-47c8-9ba9-5a4d209657da",
@@ -69,7 +69,7 @@
       "type": "noun",
       "meaning": "Tạm biệt",
       "description": "Mô tả cuộc sống",
-      "descriptionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
+      "captionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
     },
     {
       "id": "6e84cc85-191c-4e52-adb5-e899685fcc43",
@@ -78,16 +78,7 @@
       "type": "noun",
       "meaning": "Nụ hôn tạm biệt",
       "description": "Lời chào tạm biệt văn hóa Pháp",
-      "descriptionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
-    },
-    {
-      "id": "30b74ae1-627b-4598-bf52-5ea37cf0fcdc",
-      "language": "english",
-      "word": "bye",
-      "type": "exclamation, noun",
-      "meaning": "tạm biệt",
-      "description": "Tạm biệt! Gặp lại bạn vào tuần tới.",
-      "descriptionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
+      "captionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
     },
     {
       "id": "EdlUGKm",
@@ -96,7 +87,7 @@
       "type": "noun",
       "meaning": "Hòa bình",
       "description": "biểu thị tình trạng không có xung đột hoặc chiến tranh. ",
-      "descriptionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
+      "captionPhoto": "https://thumbs.dreamstime.com/z/korean-love-sign-hand-folded-heart-symbol-i-you-gesture-vector-illustration-185192788.jpg"
     },
     {
       "id": "EibyQkH",
@@ -105,7 +96,7 @@
       "type": "noun",
       "meaning": "sự cung cấp",
       "description": "hành động cung cấp cho ai đó thứ gì đó mà họ cần hoặc muốn; một cái gì đó được cung cấp",
-      "descriptionPhoto": "https://www.desicomments.com/wallpapers/wp-content/uploads/2014/12/Beautiful-Waterfall-Image.jpg"
+      "captionPhoto": "https://www.desicomments.com/wallpapers/wp-content/uploads/2014/12/Beautiful-Waterfall-Image.jpg"
     },
     {
       "id": "CCWsBv3",
@@ -114,25 +105,155 @@
       "type": "noun",
       "meaning": "Sự phân phối",
       "description": "Các nhà sản xuất phân phối hàng hóa",
-      "descriptionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+    },
+    {
+      "id": "k4Bq1V2",
+      "language": "english",
+      "word": "override",
+      "type": "dá",
+      "meaning": "dá",
+      "description": "đâs",
+      "captionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
+    },
+    {
+      "id": "CUGaMCu",
+      "language": "china",
+      "word": "再见",
+      "type": "adverb",
+      "meaning": "dasdsa",
+      "description": "dsaasa",
+      "captionPhoto": ""
+    },
+    {
+      "id": "kOxk_Jn",
+      "language": "english",
+      "word": "feature",
+      "type": "adjective",
+      "meaning": "xin chào",
+      "description": "dasdasas",
+      "captionPhoto": ""
+    },
+    {
+      "id": "0YybyLH",
+      "language": "korea",
+      "word": "再见",
+      "type": "verb",
+      "meaning": "Từ vựng",
+      "description": "kbjknjkn",
+      "captionPhoto": ""
+    },
+    {
+      "id": "xXmmOeK",
+      "language": "english",
+      "word": "section",
+      "type": "noun",
+      "meaning": "Từ vựng",
+      "description": "dasdsa",
+      "captionPhoto": ""
+    },
+    {
+      "id": "4TuJC8s",
+      "language": "korea",
+      "word": "再见",
+      "type": "verb",
+      "meaning": "Từ vựng",
+      "description": "dsadasdassa",
+      "captionPhoto": ""
+    },
+    {
+      "id": "QLHJCPX",
+      "language": "china",
+      "word": "再见",
+      "type": "verb",
+      "meaning": "dsadas",
+      "description": "1",
+      "captionPhoto": ""
+    },
+    {
+      "id": "crutOnA",
+      "language": "english",
+      "word": "family",
+      "type": "adverb",
+      "meaning": "dsadas",
+      "description": "dasdsa",
+      "captionPhoto": ""
+    },
+    {
+      "id": "QBpmeNK",
+      "language": "buncha",
+      "word": "dsa",
+      "type": "adverb",
+      "meaning": "asd",
+      "description": "das",
+      "captionPhoto": ""
+    },
+    {
+      "id": "ejAVVEh",
+      "language": "buncha",
+      "word": "das",
+      "type": "verb",
+      "meaning": "asdas",
+      "description": "dasdsa",
+      "captionPhoto": ""
+    },
+    {
+      "id": "DpLRLpC",
+      "language": "english",
+      "word": "worldwide",
+      "type": "adverb",
+      "meaning": "Từ vựng",
+      "description": "dasas",
+      "captionPhoto": ""
+    },
+    {
+      "id": "Wemody_",
+      "language": "english",
+      "word": "action",
+      "type": "adverb",
+      "meaning": "xin chào",
+      "description": "dsadsa",
+      "captionPhoto": ""
+    },
+    {
+      "id": "m5UE82i",
+      "language": "english",
+      "word": "melody",
+      "type": "adverb",
+      "meaning": "Từ vựng",
+      "description": "dsadsa",
+      "captionPhoto": ""
+    },
+    {
+      "id": "swf0y6J",
+      "language": "france",
+      "word": "éveiller",
+      "type": "adverb",
+      "meaning": "d",
+      "description": "d",
+      "captionPhoto": ""
     }
   ],
   "languages": [
     {
+      "id": "c27e5d5d-9171-424c-b16c-d8972fcf6479",
       "language": "english"
     },
     {
+      "id": "b722e629-c584-4029-bc57-85f4c61dec8e",
       "language": "china"
     },
     {
+      "id": "37580225-2b27-4dee-96c8-3e5fbad8d951",
       "language": "france"
     },
     {
-      "language": "Korea"
+      "id": "18b5ca6c-4425-4cfd-87c6-a2f09eb23d32",
+      "language": "korea"
     },
     {
-      "id": "e5f07a5c-fa98-47d2-acd4-000fd8cd7bda",
-      "language": "espanol"
+      "id": "65ee7368-0949-4b1c-bb22-7dfbd71ef512",
+      "language": "buncha"
     }
   ]
 }

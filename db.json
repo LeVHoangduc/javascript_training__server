@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": 3,
       "email": "Admin1@gmail.com",
       "password": "Admin@123"
     },
     {
-      "id": 2,
+      "id": 3,
       "email": "Admin2@gmail.com",
       "password": "Admin@123"
     },
@@ -24,7 +24,7 @@
       "type": "verb",
       "meaning": "làm công việc/nhiệm vụ",
       "description": "Để làm một cái gì đó liên quan đến nỗ lực thể chất hoặc tinh thần, đặc biệt là một phần của công việc",
-      "captionPhoto": ""
+      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     },
     {
       "id": "bf3f0125-2682-4a10-83fa-a2d125a0ef3a",
@@ -33,7 +33,7 @@
       "type": "noun",
       "meaning": "Tình yêu",
       "description": "diễn đạt tình cảm yêu thương và quan tâm. Nó thể hiện sự gắn kết và tình cảm sâu sắc giữa những người thân yêu.",
-      "captionPhoto": ""
+      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     },
     {
       "id": "a2d34929-3115-4471-9181-40a72846fc79",
@@ -42,7 +42,7 @@
       "type": "noun",
       "meaning": "Xin chào",
       "description": "Lời chào khi gặp nhau",
-      "captionPhoto": ""
+      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     },
     {
       "id": "a4e7f64b-b1de-41bb-b5be-481f243fa4a9",
@@ -105,34 +105,7 @@
       "type": "noun",
       "meaning": "Sự phân phối",
       "description": "Các nhà sản xuất phân phối hàng hóa",
-      "captionPhoto": ""
-    },
-    {
-      "id": "k4Bq1V2",
-      "language": "english",
-      "word": "override",
-      "type": "dá",
-      "meaning": "dá",
-      "description": "đâs",
-      "captionPhoto": "https://images.ctfassets.net/awpxl2koull4/33guHHuo0EmeKUMAEESw2a/6c5c0b0a860a70d86b4dc9c72654e72b/goodbye-blue.jpg"
-    },
-    {
-      "id": "CUGaMCu",
-      "language": "china",
-      "word": "再见",
-      "type": "adverb",
-      "meaning": "dasdsa",
-      "description": "dsaasa",
-      "captionPhoto": ""
-    },
-    {
-      "id": "kOxk_Jn",
-      "language": "english",
-      "word": "feature",
-      "type": "adjective",
-      "meaning": "xin chào",
-      "description": "dasdasas",
-      "captionPhoto": ""
+      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
     },
     {
       "id": "0YybyLH",
@@ -144,39 +117,12 @@
       "captionPhoto": ""
     },
     {
-      "id": "xXmmOeK",
-      "language": "english",
-      "word": "section",
-      "type": "noun",
-      "meaning": "Từ vựng",
-      "description": "dasdsa",
-      "captionPhoto": ""
-    },
-    {
       "id": "4TuJC8s",
       "language": "korea",
       "word": "再见",
       "type": "verb",
       "meaning": "Từ vựng",
       "description": "dsadasdassa",
-      "captionPhoto": ""
-    },
-    {
-      "id": "QLHJCPX",
-      "language": "china",
-      "word": "再见",
-      "type": "verb",
-      "meaning": "dsadas",
-      "description": "1",
-      "captionPhoto": ""
-    },
-    {
-      "id": "crutOnA",
-      "language": "english",
-      "word": "family",
-      "type": "adverb",
-      "meaning": "dsadas",
-      "description": "dasdsa",
       "captionPhoto": ""
     },
     {
@@ -198,39 +144,12 @@
       "captionPhoto": ""
     },
     {
-      "id": "DpLRLpC",
+      "id": "0Wbc-ns",
       "language": "english",
-      "word": "worldwide",
-      "type": "adverb",
-      "meaning": "Từ vựng",
-      "description": "dasas",
-      "captionPhoto": ""
-    },
-    {
-      "id": "Wemody_",
-      "language": "english",
-      "word": "action",
-      "type": "adverb",
-      "meaning": "xin chào",
-      "description": "dsadsa",
-      "captionPhoto": ""
-    },
-    {
-      "id": "m5UE82i",
-      "language": "english",
-      "word": "melody",
-      "type": "adverb",
-      "meaning": "Từ vựng",
-      "description": "dsadsa",
-      "captionPhoto": ""
-    },
-    {
-      "id": "swf0y6J",
-      "language": "france",
-      "word": "éveiller",
-      "type": "adverb",
-      "meaning": "d",
-      "description": "d",
+      "word": "Quality",
+      "type": "noun",
+      "meaning": "Chất lượng",
+      "description": "A quality of a product",
       "captionPhoto": ""
     }
   ],
@@ -252,8 +171,8 @@
       "language": "korea"
     },
     {
-      "id": "65ee7368-0949-4b1c-bb22-7dfbd71ef512",
-      "language": "buncha"
+      "id": "4aad97b1-791e-48fa-b234-082c38341039",
+      "language": "malay"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "id": 3,
+      "id": 1,
       "email": "Admin1@gmail.com",
       "password": "Admin@123"
     },
     {
-      "id": 3,
+      "id": 2,
       "email": "Admin2@gmail.com",
       "password": "Admin@123"
     },
@@ -24,7 +24,7 @@
       "type": "verb",
       "meaning": "làm công việc/nhiệm vụ",
       "description": "Để làm một cái gì đó liên quan đến nỗ lực thể chất hoặc tinh thần, đặc biệt là một phần của công việc",
-      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+      "captionPhoto": ""
     },
     {
       "id": "bf3f0125-2682-4a10-83fa-a2d125a0ef3a",
@@ -33,7 +33,7 @@
       "type": "noun",
       "meaning": "Tình yêu",
       "description": "diễn đạt tình cảm yêu thương và quan tâm. Nó thể hiện sự gắn kết và tình cảm sâu sắc giữa những người thân yêu.",
-      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+      "captionPhoto": ""
     },
     {
       "id": "a2d34929-3115-4471-9181-40a72846fc79",
@@ -42,7 +42,7 @@
       "type": "noun",
       "meaning": "Xin chào",
       "description": "Lời chào khi gặp nhau",
-      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+      "captionPhoto": ""
     },
     {
       "id": "a4e7f64b-b1de-41bb-b5be-481f243fa4a9",
@@ -105,7 +105,7 @@
       "type": "noun",
       "meaning": "Sự phân phối",
       "description": "Các nhà sản xuất phân phối hàng hóa",
-      "captionPhoto": "http://www.quickmeme.com/img/df/df42037ad03b54bea4a901ac53df2d64fc6bd761cca6de67765a0af53bcdb03a.jpg"
+      "captionPhoto": ""
     },
     {
       "id": "0YybyLH",
@@ -132,15 +132,6 @@
       "type": "adverb",
       "meaning": "asd",
       "description": "das",
-      "captionPhoto": ""
-    },
-    {
-      "id": "ejAVVEh",
-      "language": "buncha",
-      "word": "das",
-      "type": "verb",
-      "meaning": "asdas",
-      "description": "dasdsa",
       "captionPhoto": ""
     },
     {
